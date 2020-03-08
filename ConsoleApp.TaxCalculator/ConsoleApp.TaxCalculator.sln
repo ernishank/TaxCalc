@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2A4A1EFD-CCDA-4EFA-A48B-5C1948E2E6D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{CBB49613-8FA4-4C51-B1DF-ACE79ABCAD84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.TaxCalculator", "src\ConsoleApp.TaxCalculator\ConsoleApp.TaxCalculator.csproj", "{6ACFF9D5-3ACB-41F2-98D0-126C70CF7B4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ACFF9D5-3ACB-41F2-98D0-126C70CF7B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACFF9D5-3ACB-41F2-98D0-126C70CF7B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACFF9D5-3ACB-41F2-98D0-126C70CF7B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACFF9D5-3ACB-41F2-98D0-126C70CF7B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6ACFF9D5-3ACB-41F2-98D0-126C70CF7B4A} = {2A4A1EFD-CCDA-4EFA-A48B-5C1948E2E6D3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D37DA45-AD1F-4CDF-A99D-E9759E839950}
+	EndGlobalSection
+EndGlobal

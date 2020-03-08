@@ -1,0 +1,11 @@
+F:\Repositories\ConsoleApp.TaxCalculator\src\ConsoleApp.TaxCalculator\bin\Debug\netcoreapp3.1\ConsoleApp.TaxCalculator.exe
+F:\Repositories\ConsoleApp.TaxCalculator\src\ConsoleApp.TaxCalculator\bin\Debug\netcoreapp3.1\ConsoleApp.TaxCalculator.deps.json
+F:\Repositories\ConsoleApp.TaxCalculator\src\ConsoleApp.TaxCalculator\bin\Debug\netcoreapp3.1\ConsoleApp.TaxCalculator.runtimeconfig.json
+F:\Repositories\ConsoleApp.TaxCalculator\src\ConsoleApp.TaxCalculator\bin\Debug\netcoreapp3.1\ConsoleApp.TaxCalculator.runtimeconfig.dev.json
+F:\Repositories\ConsoleApp.TaxCalculator\src\ConsoleApp.TaxCalculator\bin\Debug\netcoreapp3.1\ConsoleApp.TaxCalculator.dll
+F:\Repositories\ConsoleApp.TaxCalculator\src\ConsoleApp.TaxCalculator\bin\Debug\netcoreapp3.1\ConsoleApp.TaxCalculator.pdb
+F:\Repositories\ConsoleApp.TaxCalculator\src\ConsoleApp.TaxCalculator\obj\Debug\netcoreapp3.1\ConsoleApp.TaxCalculator.AssemblyInfoInputs.cache
+F:\Repositories\ConsoleApp.TaxCalculator\src\ConsoleApp.TaxCalculator\obj\Debug\netcoreapp3.1\ConsoleApp.TaxCalculator.AssemblyInfo.cs
+F:\Repositories\ConsoleApp.TaxCalculator\src\ConsoleApp.TaxCalculator\obj\Debug\netcoreapp3.1\ConsoleApp.TaxCalculator.dll
+F:\Repositories\ConsoleApp.TaxCalculator\src\ConsoleApp.TaxCalculator\obj\Debug\netcoreapp3.1\ConsoleApp.TaxCalculator.pdb
+F:\Repositories\ConsoleApp.TaxCalculator\src\ConsoleApp.TaxCalculator\obj\Debug\netcoreapp3.1\ConsoleApp.TaxCalculator.csprojAssemblyReference.cache
